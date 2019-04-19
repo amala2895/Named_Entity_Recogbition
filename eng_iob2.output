@@ -36,7 +36,7 @@ lucky O O
 2-1 O O
 win O O
 against O O
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 in O O
 a O O
 Group O O
@@ -203,7 +203,7 @@ their O O
 opening O O
 meeting O O
 against O O
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 . O O
 
 Takuya I-PER B-PER
@@ -252,7 +252,7 @@ second O O
 costly O O
 blunder O O
 by O O
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 in O O
 four O O
 minutes O O
@@ -294,7 +294,7 @@ Nader I-PER B-PER
 Jokhadar I-PER B-PER
 had O O
 given O O
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 the O O
 lead O O
 with O O
@@ -348,7 +348,7 @@ said O O
 ' O O
 ' O O
 The O O
-Syrian I-MISC B-LOC
+Syrian I-MISC B-MISC
 own O O
 goal O O
 proved O O
@@ -759,7 +759,7 @@ Asian I-MISC B-LOC
 Cup I-MISC O
 victory O O
 over O O
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 on O O
 Friday O O
 . O O
@@ -841,7 +841,7 @@ Bitar I-PER B-PER
 goal O O
 . O O
 
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 had O O
 taken O O
 the O O
@@ -1051,7 +1051,7 @@ Okano I-PER I-PER
 ) O O
 . O O
 
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 : O O
 24 O O
 - O O
@@ -1372,7 +1372,7 @@ Takagi I-PER I-PER
 88 O O
 . O O
 
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 - O O
 Nader I-PER B-PER
 Jokhadar I-PER I-PER
@@ -1447,7 +1447,7 @@ Japan I-LOC B-LOC
 1 O O
 3 O O
 
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 1 O O
 0 O O
 0 O O
@@ -1879,7 +1879,7 @@ ROUND O O
 RESULT O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 Result O B-LOC
@@ -1911,7 +1911,7 @@ BAN O O
 LIFTED O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 Dutch I-MISC B-LOC
@@ -2069,7 +2069,7 @@ FAST-FOOD O O
 FRACAS O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 Leeds I-ORG B-PER
@@ -2232,7 +2232,7 @@ EUROLEAGUE I-MISC B-ORG
 STANDINGS O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 Standings O O
@@ -2518,7 +2518,7 @@ FAREWELL O B-ORG
 Robert I-PER B-PER
 Kitson I-PER B-PER
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 Centre O B-PER
@@ -4348,7 +4348,7 @@ DiVenuto I-PER O
 119 O O
 ) O O
 v O O
-Victoria I-ORG B-LOC
+Victoria I-ORG B-MISC
 . O O
 
 -DOCSTART- O O
@@ -5378,7 +5378,7 @@ PHILADELPHIA I-ORG O
 75 O O
 30 O O
 
-NEW I-ORG B-LOC
+NEW I-ORG B-MISC
 JERSEY I-ORG O
 14 O O
 10 O O
@@ -5574,7 +5574,7 @@ MONTREAL I-ORG B-ORG
 AT O O
 CHICAGO I-LOC B-ORG
 
-PHILADELPHIA I-ORG B-LOC
+PHILADELPHIA I-ORG B-MISC
 AT O O
 DALLAS I-LOC B-ORG
 
@@ -5660,7 +5660,7 @@ Ny I-ORG O
 Islanders I-ORG O
 2 O O
 
-NEW I-ORG B-LOC
+NEW I-ORG B-MISC
 JERSEY I-ORG O
 2 O O
 Calgary I-ORG O
@@ -5832,7 +5832,7 @@ five O O
 seconds O O
 . O O
 
-Philadelphia I-LOC B-LOC
+Philadelphia I-LOC B-MISC
 , O O
 which O O
 fell O O
@@ -6009,7 +6009,7 @@ A O O
 interference O O
 penalty O O
 against O O
-Philadelphia I-LOC B-LOC
+Philadelphia I-LOC B-MISC
 's O O
 Troy I-PER B-PER
 Vincent I-PER I-PER
@@ -6173,7 +6173,7 @@ BOSTON I-ORG B-LOC
 .250 O O
 9 O O
 
-NEW I-ORG B-LOC
+NEW I-ORG B-MISC
 JERSEY I-ORG O
 3 O O
 10 O O
@@ -6355,7 +6355,7 @@ FRIDAY O O
 DECEMBER O O
 6 O O
 
-NEW I-ORG B-LOC
+NEW I-ORG B-MISC
 JERSEY I-ORG B-ORG
 AT O O
 BOSTON I-LOC B-ORG
@@ -6451,7 +6451,7 @@ T O O
 PF O O
 PA O O
 
-NEW I-ORG B-LOC
+NEW I-ORG B-MISC
 ENGLAND I-ORG O
 9 O O
 4 O O
@@ -6712,7 +6712,7 @@ ATLANTA I-ORG O
 234 O O
 393 O O
 
-NEW I-ORG B-LOC
+NEW I-ORG B-MISC
 ORLEANS I-ORG B-ORG
 2 O O
 11 O O
@@ -9392,10 +9392,10 @@ MANCHESTER I-ORG O
 UNITED I-ORG B-ORG
 FANS O O
 IN O O
-AUSTRIA I-LOC B-LOC
+AUSTRIA I-LOC B-MISC
 . O O
 
-VIENNA I-LOC B-LOC
+VIENNA I-LOC B-MISC
 1996-12-06 O O
 
 Two O O
@@ -9472,7 +9472,7 @@ The O O
 fans O O
 , O O
 in O O
-Austria I-LOC B-LOC
+Austria I-LOC B-MISC
 to O O
 watch O O
 their O O
@@ -10755,7 +10755,7 @@ FRIEND O O
 Klara I-PER B-PER
 Gajduskova I-PER B-ORG
 
-PRAGUE I-LOC B-LOC
+PRAGUE I-LOC B-MISC
 1996-12-06 O O
 
 Czech I-LOC B-LOC
@@ -11064,7 +11064,7 @@ between O O
 Europe I-LOC B-LOC
 and O O
 the O O
-US I-LOC B-LOC
+US I-LOC B-MISC
 , O O
 " O O
 Foreign O O
@@ -11290,7 +11290,7 @@ PARTY O B-ORG
 CONGRESS O O
 . O O
 
-PRAGUE I-LOC B-LOC
+PRAGUE I-LOC B-MISC
 1996-12-06 O O
 
 Saturday O O
@@ -11413,7 +11413,7 @@ on O O
 Saturday O O
 in O O
 the O O
-Czech I-LOC B-LOC
+Czech I-LOC B-MISC
 second O O
 city O O
 Brno I-LOC B-PER
@@ -12791,7 +12791,7 @@ CONDITIONS O B-ORG
 WORSENS O O
 . O O
 
-PRAGUE I-LOC B-LOC
+PRAGUE I-LOC B-MISC
 1996-12-06 O O
 
 Doctors O O
@@ -13009,7 +13009,7 @@ to O O
 restart O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 The O O
@@ -13117,7 +13117,7 @@ in O O
 London I-LOC B-LOC
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 PT I-ORG O
@@ -13189,7 +13189,7 @@ in O O
 London I-LOC B-LOC
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 PT I-ORG O
@@ -13402,7 +13402,7 @@ alliance O O
 Edna I-PER B-PER
 Fernandes I-PER O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 The O O
@@ -13879,7 +13879,7 @@ strike O O
 ends O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 Mediterranean O B-LOC
@@ -13977,7 +13977,7 @@ percent O O
 heating O O
 oil O O
 into O O
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 and O O
 Lebanon I-LOC B-LOC
 and O O
@@ -14201,7 +14201,7 @@ hits O O
 Britain I-LOC B-LOC
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 A O O
@@ -14469,7 +14469,7 @@ have O O
 majority O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 British I-MISC B-LOC
@@ -14707,7 +14707,7 @@ data O O
 contract O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 Information O B-LOC
@@ -16639,7 +16639,7 @@ Zaire I-LOC B-PER
 Jonathan I-PER B-PER
 Wright I-PER B-PER
 
-NAIROBI I-LOC B-LOC
+NAIROBI I-LOC B-MISC
 1996-12-06 O O
 
 The O O
@@ -16779,7 +16779,7 @@ I O O
 'm O O
 going O O
 into O O
-Rwanda I-LOC B-LOC
+Rwanda I-LOC B-MISC
 and O O
 my O O
 intention O O
@@ -16961,7 +16961,7 @@ border O O
 between O O
 Zaire I-LOC B-PER
 and O O
-Rwanda I-LOC B-LOC
+Rwanda I-LOC B-MISC
 , O O
 " O O
 Young I-PER B-PER
@@ -18483,7 +18483,7 @@ hits O O
 pickup O O
 . O O
 
-JOHANNESBURG I-LOC B-LOC
+JOHANNESBURG I-LOC B-MISC
 1996-12-06 O O
 
 Five O O
@@ -20045,7 +20045,7 @@ in O O
 the O O
 development O O
 of O O
-Russian-U.S. I-MISC B-LOC
+Russian-U.S. I-MISC B-MISC
 relations O O
 will O O
 be O O
@@ -20682,7 +20682,7 @@ rule O O
 The O O
 majority O O
 in O O
-Bulgaria I-LOC B-LOC
+Bulgaria I-LOC B-MISC
 are O O
 Christians I-MISC O
 . O O
@@ -21847,7 +21847,7 @@ Camaras O B-PER
 Arbitrales O I-PER
 . O O
 
-BUENOS I-LOC B-LOC
+BUENOS I-LOC B-MISC
 AIRES I-LOC B-LOC
 1996-12-06 O O
 
@@ -21858,7 +21858,7 @@ price O O
 fix O O
 : O O
 
-Buenos I-LOC B-LOC
+Buenos I-LOC B-MISC
 Aires I-LOC B-PER
 Quequen B-LOC I-PER
 Rosario B-LOC I-PER
@@ -22357,7 +22357,7 @@ Aninat I-PER I-PER
 said O O
 . O O
 
-Chile I-LOC B-LOC
+Chile I-LOC B-MISC
 hopes O O
 to O O
 broaden O O
@@ -25396,7 +25396,7 @@ SLA I-ORG B-ORG
 of O O
 collaborating O O
 with O O
-Israel I-LOC B-LOC
+Israel I-LOC B-MISC
 with O O
 which O O
 Lebanon I-LOC B-LOC
@@ -25438,7 +25438,7 @@ guerrilla O O
 raids O O
 on O O
 northern O O
-Israel I-LOC B-LOC
+Israel I-LOC B-MISC
 . O O
 
 Lahd I-PER B-PER
@@ -25929,7 +25929,7 @@ lbs O O
 67.00 O O
 . O O
 
-Confirmed O B-LOC
+Confirmed O B-MISC
 - O O
 9,300 O O
 Week O O
@@ -26115,7 +26115,7 @@ BALANCE O B-LOC
 - O O
 Hartford I-LOC B-LOC
 , O O
-Conn I-LOC B-LOC
+Conn I-LOC B-MISC
 . O O
 
 , O O
@@ -26859,7 +26859,7 @@ no O O
 sales O O
 . O O
 
-Confirmed O B-LOC
+Confirmed O B-MISC
 - O O
 None O B-PER
 Week O I-PER
@@ -30319,7 +30319,7 @@ ore O O
 fixtures O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 COAL O B-ORG
@@ -30408,7 +30408,7 @@ victory O O
 odds O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 UK I-LOC O
@@ -30495,7 +30495,7 @@ returns O O
 Salomon I-ORG B-PER
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 High-flying O O
@@ -30848,7 +30848,7 @@ on O O
 Thursday O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 The O O
@@ -30945,7 +30945,7 @@ good O O
 spokesman O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 Relations O O
@@ -31090,7 +31090,7 @@ in O O
 Newfoundland I-LOC B-LOC
 . O O
 
-STEPHENVILLE I-LOC B-LOC
+STEPHENVILLE I-LOC B-MISC
 , O O
 Newfoundland I-LOC B-LOC
 1996-12-06 O O
@@ -31582,7 +31582,7 @@ weeks O O
 of O O
 talks O O
 with O O
-Israel I-LOC B-LOC
+Israel I-LOC B-MISC
 on O O
 implementing O O
 the O O
@@ -31723,7 +31723,7 @@ and O O
 smugglers O O
 infiltrating O O
 from O O
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 are O O
 being O O
 badly O O
@@ -31902,7 +31902,7 @@ comment O O
 
 Turkey I-LOC B-LOC
 says O O
-Syria I-LOC B-LOC
+Syria I-LOC B-MISC
 sponsors O O
 the O O
 PKK I-ORG B-ORG
@@ -31916,7 +31916,7 @@ southeast O O
 Turkey I-LOC B-LOC
 . O O
 
-Damascus I-LOC B-LOC
+Damascus I-LOC B-MISC
 denies O O
 aiding O O
 the O O
@@ -32127,7 +32127,7 @@ the O O
 12-year-old O O
 conflict O O
 between O O
-Turkish I-MISC B-LOC
+Turkish I-MISC B-MISC
 security O O
 forces O O
 and O O
@@ -33107,7 +33107,7 @@ slashing O O
 opponents O O
 . O O
 
-ALBUQUERQUE I-LOC B-LOC
+ALBUQUERQUE I-LOC B-MISC
 , O O
 N.M. I-LOC O
 1996-12-05 O O
@@ -33158,7 +33158,7 @@ X I-ORG O
 High I-ORG O
 School I-ORG O
 in O O
-Albuquerque I-LOC B-LOC
+Albuquerque I-LOC B-MISC
 after O O
 an O O
 October O O
@@ -33740,7 +33740,7 @@ deputy O O
 legal O O
 chief O O
 at O O
-Russia I-LOC B-LOC
+Russia I-LOC B-MISC
 's O O
 foreign O O
 ministry O O
@@ -35074,7 +35074,7 @@ imports O O
 detailed O O
 . O O
 
-HAMBURG I-LOC B-LOC
+HAMBURG I-LOC B-MISC
 1996-12-06 O O
 
 German I-MISC B-LOC
@@ -35512,7 +35512,7 @@ in O O
 week O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 The O O
@@ -35609,7 +35609,7 @@ at O O
 GMT I-MISC O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 PT I-ORG O
@@ -35685,7 +35685,7 @@ should O O
 resign O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-06 O O
 
 A O O
@@ -39650,7 +39650,7 @@ Age O O
 
 Nation O B-LOC
 : O O
-Russia I-LOC B-LOC
+Russia I-LOC B-MISC
 
 Previous O O
 World I-MISC O
@@ -40229,7 +40229,7 @@ Age O O
 
 Nation O B-LOC
 : O O
-Austria I-LOC B-LOC
+Austria I-LOC B-MISC
 
 Previous O O
 victories O O
@@ -40249,7 +40249,7 @@ G O O
 , O O
 Flachau I-LOC B-LOC
 , O O
-Austria I-LOC B-LOC
+Austria I-LOC B-MISC
 , O O
 1995 O O
 . O O
@@ -41420,7 +41420,7 @@ WIN O O
 
 IGLS I-LOC B-LOC
 , O O
-Austria I-LOC B-LOC
+Austria I-LOC B-MISC
 1996-12-07 O O
 
 Brian I-PER B-LOC
@@ -41854,7 +41854,7 @@ RESULTS O O
 
 IGLS I-LOC B-LOC
 , O O
-Austria I-LOC B-LOC
+Austria I-LOC B-MISC
 1996-12-07 O O
 
 Results O O
@@ -42057,7 +42057,7 @@ Hines I-PER O
 53.20 O O
 ) O O
 and O O
-Austria I-ORG B-LOC
+Austria I-ORG B-MISC
 III I-ORG O
 
 ( O O
@@ -43669,7 +43669,7 @@ ENGLISH I-MISC B-ORG
 GOALSCORERS O B-ORG
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 Leading O O
@@ -43816,7 +43816,7 @@ RESULTS O O
 STANDINGS O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 Results O O
@@ -43955,7 +43955,7 @@ BRITISH O B-ORG
 RESULTS O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 Results O O
@@ -44197,7 +44197,7 @@ UP O O
 OPTIONS O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 David I-PER B-PER
@@ -44390,7 +44390,7 @@ LEAGUE O B-ORG
 SUMMARIES O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 Summaries O O
@@ -45001,7 +45001,7 @@ LEAGUE O O
 STANDINGS O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 Standings O O
@@ -45883,7 +45883,7 @@ Hartlepool I-ORG O
 28 O O
 22 O O
 
-Brighton I-ORG B-LOC
+Brighton I-ORG B-MISC
 22 O O
 3 O O
 4 O O
@@ -45904,7 +45904,7 @@ LAST-MINUTE O O
 EQUALISER O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 Frenchman I-MISC B-PER
@@ -46235,7 +46235,7 @@ CUP O O
 RESULTS O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 Results O O
@@ -46491,7 +46491,7 @@ WALLABY I-LOC O
 ROMP O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 Australia I-LOC B-LOC
@@ -46643,7 +46643,7 @@ BARBARIANS I-ORG O
 39-12 O O
 . O O
 
-LONDON I-LOC B-LOC
+LONDON I-LOC B-MISC
 1996-12-07 O O
 
 Australia I-LOC B-LOC
@@ -47368,7 +47368,7 @@ three O O
 for O O
 81 O O
 for O O
-Victoria I-LOC B-LOC
+Victoria I-LOC B-MISC
 . O O
 
 -DOCSTART- O O
@@ -48420,7 +48420,7 @@ PHILADELPHIA I-ORG O
 .412 O O
 6 O O
 
-NEW I-ORG B-LOC
+NEW I-ORG B-MISC
 JERSEY I-ORG O
 4 O O
 10 O O
@@ -48642,7 +48642,7 @@ VANCOUVER I-ORG O
 AT O O
 DALLAS I-LOC B-ORG
 
-PHILADELPHIA I-ORG B-LOC
+PHILADELPHIA I-ORG B-MISC
 AT O O
 HOUSTON I-LOC B-ORG
 
@@ -48874,7 +48874,7 @@ PHILADELPHIA I-ORG O
 78 O O
 32 O O
 
-NEW I-ORG B-LOC
+NEW I-ORG B-MISC
 JERSEY I-ORG O
 14 O O
 10 O O
@@ -49156,7 +49156,7 @@ Montreal I-ORG O
 CHICAGO I-ORG O
 1 O O
 
-Philadelphia I-LOC B-LOC
+Philadelphia I-LOC B-MISC
 6 O O
 DALLAS I-LOC O
 3 O O
@@ -49395,7 +49395,7 @@ HEAVYWEIGHT O O
 FIGHT O O
 . O O
 
-VIENNA I-LOC B-LOC
+VIENNA I-LOC B-MISC
 1996-12-07 O O
 
 German I-MISC B-LOC

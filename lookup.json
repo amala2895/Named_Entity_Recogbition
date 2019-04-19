@@ -6,6 +6,6 @@
     "I-PER": 6,
     "O": 7,
     "B-ORG": 4,
-    "B-MISC": 2,
-    "EMPTY": 8
+    "B-MISC": 2
+   
 }
